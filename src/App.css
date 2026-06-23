@@ -43,7 +43,7 @@ h2 { margin-bottom: .3rem; font-size: 1.1rem; }
 .image-import-panel { flex-wrap: wrap; }
 .image-import-panel p { margin-bottom: 0; }
 .dataset-label { margin: 1rem 0 .5rem; color: #475569; font-size: .9rem; }
-.workspace-grid { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1.8fr); gap: 1rem; align-items: start; }
+.workspace-grid { display: grid; grid-template-columns: minmax(0, 1fr); align-items: start; }
 .criteria-panel, .results-panel { overflow: hidden; }
 .criteria-table-wrap, .results-table-wrap { overflow-x: auto; }
 table { width: 100%; border-collapse: collapse; font-size: .87rem; }
