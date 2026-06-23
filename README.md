@@ -21,7 +21,17 @@ The first two columns are required by position; their header names may vary.
 | 2 | Image path (optional) | `images/alpha.png` |
 | 3 onward | Numeric criteria | `Mass_kg`, `Cost_GBP` |
 
-Download or upload [sample_designs.csv](public/sample_designs.csv) to test the application. For local image paths, upload corresponding image files after loading the CSV. Their filenames must match the filename in the image-path column. HTTP(S) and `data:image/...` URLs are shown directly.
+Download or upload [sample_designs.csv](public/sample_designs.csv) to test the application. [test.csv](public/test.csv) compares an incumbent electric kettle with sustainability-focused concepts across material, production, use, and end-of-life criteria. It contains illustrative values only. For local image paths, upload corresponding image files after loading the CSV. Their filenames must match the filename in the image-path column. HTTP(S) and `data:image/...` URLs are shown directly.
+
+### Image URLs
+
+Use a direct, publicly accessible HTTPS image URL in the second CSV column. For assets stored in this repository, place them in `public/images/` and reference the deployed Pages URL, for example:
+
+```text
+https://amic-qub.github.io/AMIC_Pugh/images/concept-alpha.svg
+```
+
+Do not use a GitHub `blob` page URL: it points to an HTML page, not image bytes. For an image in another public repository, use its `raw.githubusercontent.com` URL instead. Local Windows paths such as `C:\images\concept.png` cannot be displayed by a deployed browser; use the **Add images** control to load those files locally.
 
 ## Scoring behaviour
 

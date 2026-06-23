@@ -1,0 +1,7 @@
+Design Name,Image Path,Virgin_Material_g,Recycled_Content_pct,Manufacturing_Energy_MJ,Use_Energy_kWh_per_year,Service_Life_years,Disassembly_Time_min,Recyclable_Mass_pct,Unit_Cost_GBP
+Incumbent_Kettle,,680,12,18,42,5,14,38,29
+Concept_A_Recycled_Housing,,430,72,15,42,4,16,64,30
+Concept_B_Efficient_Heating,,650,15,20,28,6,17,42,38
+Concept_C_Modular_Repairable,,720,28,24,36,10,6,76,44
+Concept_D_Lightweight_Design,,380,20,12,43,4,18,55,27
+Concept_E_Long_Life_Steel,,980,45,32,38,14,9,88,52

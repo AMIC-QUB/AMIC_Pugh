@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-label="Concept Gamma test illustration">
+  <rect width="800" height="480" fill="#fff7ed"/>
+  <path d="M145 345 320 180h150l190 165H145Z" fill="#ea580c"/>
+  <path d="m320 180 75-95 75 95" fill="#fdba74"/>
+  <circle cx="275" cy="370" r="35" fill="#431407"/>
+  <circle cx="565" cy="370" r="35" fill="#431407"/>
+  <text x="400" y="60" fill="#9a3412" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle">Concept Gamma</text>
+</svg>

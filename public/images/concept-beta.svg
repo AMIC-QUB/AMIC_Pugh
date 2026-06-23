@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-label="Concept Beta test illustration">
+  <rect width="800" height="480" fill="#eff6ff"/>
+  <path d="M120 330h560l-90-120H220l-100 120Z" fill="#2563eb"/>
+  <path d="M250 210 330 140h150l90 70H250Z" fill="#93c5fd"/>
+  <circle cx="245" cy="355" r="35" fill="#172554"/>
+  <circle cx="555" cy="355" r="35" fill="#172554"/>
+  <text x="400" y="80" fill="#1e3a8a" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle">Concept Beta</text>
+</svg>
