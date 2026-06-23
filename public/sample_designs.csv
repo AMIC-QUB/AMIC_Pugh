@@ -1,0 +1,11 @@
+Design Name,Image Path,Mass_kg,Cost_GBP,Strength_MPa,Efficiency,Manufacturability,Reliability
+Concept_Alpha,,25.4,1200,850,0.92,7,8.5
+Concept_Beta,,18.7,1500,720,0.88,9,7.2
+Concept_Gamma,,30.2,900,950,0.95,5,9.1
+Concept_Delta,,22.1,1100,810,0.90,8,8.0
+Concept_Epsilon,,19.5,1350,780,0.87,8,7.8
+Concept_Zeta,,27.8,950,920,0.93,6,8.8
+Concept_Eta,,21.3,1250,795,0.89,7,7.5
+Concept_Theta,,24.6,1050,870,0.91,6,8.2
+Concept_Iota,,17.9,1600,690,0.85,9,6.9
+Concept_Kappa,,29.1,875,940,0.94,5,9.0
